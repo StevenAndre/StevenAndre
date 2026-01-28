@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven André</h1>
 <h3 align="center">I am a software developer specialized in the programming languages: Java and Go, with expertise in Angular, Spring, WebFlux, databases, mobile development with kotlin and microservices</h3>
 
-- 🔭 I’m currently working on **inmaculada-cloud**
+- 🔭 I’m currently working on **NTT DATA - Interbank**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
